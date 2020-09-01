@@ -18,6 +18,12 @@
   color: white;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  padding: 2vh 0;
+}
+
 .App-link {
   color: #61dafb;
 }

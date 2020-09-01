@@ -17,6 +17,9 @@ class App extends Component {
             Welcome to T&uacute;ber!
           </h2>
         </header>
+        <footer>
+          &copy; Gus Robinson 2020
+        </footer>
       </div>
     );
   }
