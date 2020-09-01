@@ -11,7 +11,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1>
-            <span style='color: light-blue;'>T&uacute;</span>ber
+            <span>T&uacute;</span>ber
           </h1>
           <h2>
             Welcome to T&uacute;ber!
